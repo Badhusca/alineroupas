@@ -1,0 +1,47 @@
+div3{
+          text-align: center;
+           color: red;
+            widht : 145px;
+             height : 145px;
+}
+button{
+          color:red;
+        text-align:center;
+}
+h1{
+       text-align:center;
+       font-size: 24px;
+       color: red;
+     font-family: "calibri";
+}
+.p {
+          text-align: center;
+          font-size: 16px;
+          color: red;
+         margin: 2px  2px   2px 2px;
+         padding : 20px 0px 0px 0px;
+        font-family: "calibri";
+}
+.tamanhodiv{
+
+          float:left;
+          width:40%;
+}
+
+.alinharconteudo{
+
+        margin-left:20%;
+}
+
+img {
+
+    border : 5px;
+     widht : 135px;
+     height : 135px;
+}
+
+
+
+
+
+
