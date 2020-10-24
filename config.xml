@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-       <widget xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0"  version="1.0.2" id="Alinneapp">
+       <widget xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0"  version="1.0.2" id="Alinneappp">
 	<name>CLOTHING STYLE</name>
 	<descripion>
 	VARIEDADES DE ROUPAS DISPONIVEIS E DE BOA QUALIDADE!!
@@ -7,6 +7,6 @@
 	<author>
                 Alinne Ramiro de Moura da Silva
                    </author>
-	<icon src="LOGOMARCA. jpg"/>
+	<icon src="LOGOMARCA.jpg"/>
  	<gap:splash src="carregamento.jpg"/>
 </widght>
